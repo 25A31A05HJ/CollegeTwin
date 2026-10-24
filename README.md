@@ -4,10 +4,8 @@ An interactive **Digital Twin of a College Campus** built using Python, Streamli
 
 ## 🌐 Live Demo
 
-🚀 **Try the application here:** [CampusTwin Live Demo](https://collegetwin-lhx7xwuvmydaxbmab5as6q.streamlit.app/)
+🚀 **Try the application here:** [(https://collegetwin-lhx7xwuvmydaxbmab5as6q.streamlit.app/)]
 
-*Replace `(https://collegetwin-lhx7xwuvmydaxbmab5as6q.streamlit.app/)
-` with your deployed application link.*
 
 ## 📌 Project Overview
 
