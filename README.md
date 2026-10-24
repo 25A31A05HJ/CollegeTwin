@@ -142,7 +142,8 @@ CampusTwin combines campus data, occupancy simulation, and graph-based route pla
 
 **Project:** CampusTwin – Intelligent Digital Campus
 
-**GitHub:** [YOUR_GITHUB_PROFILE](https://github.com/25A31A05HJ)
+**GitHub:** [https://github.com/25A31A05HJ]
+
 
 
 ## 📄 License
